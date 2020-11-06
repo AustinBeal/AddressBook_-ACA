@@ -1,0 +1,113 @@
+.mainwrapper{
+  width: 100%;
+  height: 200%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: azure;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+#contactCards{
+  margin-top: 50px;
+  width: 40%;
+  margin-bottom: 100px;
+  height: 60px;
+}
+
+.contactCard{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  border-style: double;
+  border-color: lightslategray;
+  border-radius: 20px;
+}
+
+.name{
+  font-size: 45px;
+  cursor: pointer;
+  font-family: 'Roboto Slab', serif;
+  height: 100%;
+  vertical-align: 17.5px;
+
+  text-align: center;
+}
+img{
+  border-radius: 30px;
+  width: 60px;
+  margin-top: 10px;
+}
+
+#hiddenClass0:nth-child(4){
+  background-color: lightblue;
+  display: none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+  
+}
+#hiddenClass1:nth-child(4){
+  background-color: lightblue;
+  display: none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass2:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass3:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass4:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass5:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass6:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass7:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass8:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
+#hiddenClass9:nth-child(4){
+  background-color: lightblue;
+  display:none;
+  opacity: .7 ;
+  border-radius: 0px 0px 20px 20px;
+  padding: 10px
+}
